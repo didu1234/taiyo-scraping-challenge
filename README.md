@@ -20,6 +20,3 @@ https://www.codot.gov/programs/planning/transportation-plans-and-studies/stip
 - Converts relative URLs to absolute
 - Clean, maintainable design
 
-# Notes
-- Live scraping is not required
-- This implementation focuses on scraping logic only
